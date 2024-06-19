@@ -1,0 +1,6 @@
+{
+	"gp_setiing_filename": {
+		"type": "string",
+		"value": "pg_sql_output.csv"
+	}
+}
